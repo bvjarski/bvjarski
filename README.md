@@ -23,3 +23,6 @@
 </div>
 
 ###
+<img src="https://raw.githubusercontent.com/bvjarski/bvjarski/output/snake.svg" alt="Snake animation" />
+
+###
