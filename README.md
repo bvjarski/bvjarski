@@ -1,8 +1,4 @@
-<h2 align="left">Hi👋🏼!</h2>
-
-###
-
-<img align="right" height="150" src="https://i.gifer.com/5Tz.gif"  />
+<h2 align="left">🌐 Socials:</h2>
 
 ###
 
